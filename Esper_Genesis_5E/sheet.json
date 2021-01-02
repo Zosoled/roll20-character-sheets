@@ -4,16 +4,16 @@
 	"authors": "Rich Lescouflair (original sheet by Steve K. and Phil B.)",
 	"roll20userid": "1471558",
     "preview": "EG Sheet Roll20.png",
-    "compendium": "dnd5e",
+    "compendium": "espergenesis",
 	"instructions": "This sheet is for use with the Esper Genesis 5E RPG. It is adapted from The D&D 5th Edition Legacy sheet.",
     "useroptions": [
         {
             "attribute": "npc",
-            "displayname": "NPC",
+            "displayname": "NPC/SHIP",
             "displaytranslationkey": "npc-u",
             "type": "checkbox",
             "value": "1",
-            "description": "The NPC option sets new characters to default to the NPC card style sheet. Useful if the player characters have already been created and all new character sheets added to the game will likely represent none player characters.",
+            "description": "The NPC/SHIP option sets new characters to default to the NPC or SHIP card style sheet. Useful if the player characters have already been created and all new character sheets added to the game will likely represent none player characters.",
             "descriptiontranslationkey": "npc-info"
         },
         {
